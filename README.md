@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on open source projects and communities
 - 📫 How to reach me email:
 - GMAIL:"imariumnoor@gmail.com"
-- LINKEDIN: "Marium Noor".
-- INSTAGRAM: "explorerdevs"
+- LINKEDIN: "www.linkedin.com/in/Mariumnoor29"
+.
+- INSTAGRAM: "https://www.instagram.com/exploredevs/"
 
 <!---
 marium-noor/marium-noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
