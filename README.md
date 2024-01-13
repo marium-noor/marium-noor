@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marium-noor
-- 👀 I’m interested in an aspring front-end developer
+- 👀 I’m a front-end developer
 - 🌱 Currently delving into JavaScript
 - 💞️ I’m looking to collaborate on open source projects and communities
 - 📫 How to reach me email:
