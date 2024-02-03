@@ -2,11 +2,11 @@
 - 👀 I’m a front-end developer
 - 🌱 Currently delving into JavaScript
 - 💞️ I’m looking to collaborate on open source projects and communities
-- 📫 How to reach me email:
+- 📫 How to reach me:
 - GMAIL:"imariumnoor@gmail.com"
 - LINKEDIN: "www.linkedin.com/in/Mariumnoor29"
 .
-- INSTAGRAM: "https://www.instagram.com/baddie.codes/"
+- INSTAGRAM: "https://www.instagram.com/maryamm.codes/"
 
 <!---
 marium-noor/marium-noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
