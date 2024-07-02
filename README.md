@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marium-noor
 - 👀 I’m a front-end developer
-- 🌱 Currently delving into React
+- 🌱 Currently React is my Jam.
 - 💞️ I’m looking to collaborate on open source projects and communities
 - 📫 How to reach me:
 - GMAIL:"imariumnoor@gmail.com"
