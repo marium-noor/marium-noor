@@ -5,8 +5,7 @@
 - 📫 How to reach me:
 - GMAIL:"imariumnoor@gmail.com"
 - LINKEDIN: "www.linkedin.com/in/Mariumnoor29"
-.
-- INSTAGRAM: "https://www.instagram.com/maryamm.codes/"
+
 
 <!---
 marium-noor/marium-noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
