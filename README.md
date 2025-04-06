@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @marium-noor
-- 👀 I’m a front-end developer
-- 🌱 Currently React is my Jam.
-- 💞️ I’m looking to collaborate on open source projects and communities
-- 📫 How to reach me:
-- GMAIL:"imariumnoor@gmail.com"
-- LINKEDIN: "www.linkedin.com/in/Mariumnoor29"
-
+- Hi, i just do whatever interests mee.
 
 <!---
 marium-noor/marium-noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
