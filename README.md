@@ -1,4 +1,4 @@
-- Hi, i just do whatever interests mee.
+I just do whatever interests me.
 
 <!---
 marium-noor/marium-noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
