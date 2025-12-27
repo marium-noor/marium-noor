@@ -1,5 +1,5 @@
-Hi, I’m Marium.
+Hi, this is Marium.
 
-I began my coding journey 2 years ago with Harvard’s CS50, and since then I’ve built multiple web projects and spent the last year working as a frontend engineer at a UK-based healthtech startup.
+I started my career as a frontend developer, building strong expertise in creating responsive, user-focused web applications using modern tools and frameworks.
 
-I’m now pursuing my Computer science degree at FAST NUCES while working on the full stack AI applications, and learning machine learning on the side to push my skills beyond webdev.
+Over time, I've grown into a full-stack developer, currently focusing on Python and machine learning with the goal of becoming an AI engineer. My frontend background gives me a strong edge in building AI-driven systems that are not only technically sound but also intuitive and usable.
