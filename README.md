@@ -1,6 +1,6 @@
 # Hi, Marium here.
 
-Right now, I’m deep into AI—building automations that actually make life easier, not just look cool.
+Right now, I’m deep into AI, building automations that actually make life easier, not just look cool.
 
 I started off in frontend, so I’ve got a strong base in building responsive, user-focused apps with modern tools. Over time, I moved into full-stack and now I’m mainly working with Python and machine learning, aiming to become a solid AI engineer.
 
