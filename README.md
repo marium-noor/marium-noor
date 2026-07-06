@@ -4,7 +4,7 @@ Right now, I’m deep into AI, building automations that actually make life easi
 
 I started off in frontend, so I’ve got a strong base in building responsive, user-focused apps with modern tools. Over time, I moved into full-stack and now I’m mainly working with Python and machine learning, aiming to become a solid AI engineer.
 
-The frontend background helps a lot—I don’t just build systems that work, I build ones people can actually use without struggling.
+The frontend background helps a lot, I don’t just build systems that work, I build ones people can actually use without struggling.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariumnoor29/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://meet.google.com/kix-fnkm-bqe?authuser=0) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Marium-Noor-23) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Marium_noor/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/marium_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imariumnoor@gmail.com) 
