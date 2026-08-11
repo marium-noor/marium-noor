@@ -1,17 +1,109 @@
-# Hi, Marium here.
+# Marium Noor
 
-Right now, I’m deep into AI, building automations that actually make life easier, not just look cool.
+**AI Engineer | Automation Specialist**
 
-I started off in frontend, so I’ve got a strong base in building responsive, user-focused apps with modern tools. Over time, I moved into full-stack and now I’m mainly working with Python and machine learning, aiming to become a solid AI engineer.
+📧 imariumnoor@gmail.com · [LinkedIn](https://linkedin.com/in/mariumnoor29) · [marium.tech](https://marium.tech)
 
-The frontend background helps a lot, I don’t just build systems that work, I build ones people can actually use without struggling.
+I build AI systems that replace manual, repetitive workflows with autonomous pipelines that hold up in production. From RAG pipelines and LLM-driven agents to end-to-end automation, I design systems that handle the complexity so teams stop doing work a machine should be doing.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariumnoor29/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://meet.google.com/kix-fnkm-bqe?authuser=0) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Marium-Noor-23) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Marium_noor/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/marium_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imariumnoor@gmail.com) 
+---
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marium-noor&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=marium-noor&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marium-noor&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About
+
+Started coding professionally at 16 as a frontend engineer, then shifted into AI engineering and automation. Currently a Software Engineering student at FAST NUCES Karachi, running a solo AI automation agency alongside a remote engineering role. Outside of engineering, I'm into filmmaking and color grading, visual storytelling is the other half of how I think about building things.
+
+---
+
+## Skills
+
+**Languages:** Python, JavaScript, C, C++
+
+**AI & Automation:** n8n, Make.com, Zapier, Voice Agents, RAG, Prompt Engineering, LLM Integration, Airtable, Event-driven Automation
+
+**Backend:** FastAPI, Node.js, NestJS, REST APIs, SQL
+
+**Frontend:** React, Next.js, TypeScript, Tailwind, GSAP, MUI
+
+**Tools:** Git, Figma, Storybook, Playwright, Redux, Shopify, AutoCAD, JSON Normalization, Browser Automation, PDF Processing
+
+---
+
+## Experience
+
+### AI System Specialist, DeVinci Codes
+*June 2026 – July 2026 | Remote*
+- **Norbu Notes** — Medical billing and note processing platform: resolved bugs and enhanced UI/UX across core workflows
+- **Jarvis Dispatch Agent** — Built an OpenClaw-style autonomous dispatch agent for HVAC and legal industries, handling intake, routing, and follow-up
+- **E-commerce Website** — Designed and built a full storefront end-to-end
+- **Infrastructure** — Handled domain configuration and deployment across projects
+- **Enidon Agent** — Automated email quote generation system for local business industries
+
+`AI Agents` `LLM` `React` `Node.js` `Deployment`
+
+### AI Engineer, Stealth Mode Startup
+*Dec 2025 – May 2026 | Remote*
+- **ISM Delivery** (Next.js, Prisma, Supabase) — Delivery portal made up of four connected systems: admin dashboard, merchant portal, company portal, driver app
+- **AI Floorplan** (Python, FastAPI, React, Vite, LLM, SVG) — Converts natural language input into structured geometric room and zone data via an LLM backend
+- **AstroNews** (TypeScript, Node.js, GPT-4o, Discord API) — Monitors channels, rephrases incoming news with GPT-4o, distributes via webhooks
+- **Busala** (Next.js, React, Tailwind, OpenAI, PDF rendering) — School compliance intelligence platform for reviewing premises and generating AI-driven inspection findings
+- **ito-plan39** (Node.js, PDF parsing, LLM, REST API) — Splits PDFs by page and extracts structured data via LLM
+- **MiracleModel AI** (Next.js, Supabase, Inngest, Kling AI, Nano Banana) — End-to-end image and video generation platform with background job orchestration
+
+`Python` `FastAPI` `Node.js` `Next.js` `React` `LLM` `Prompt Engineering` `Supabase`
+
+### Frontend Engineer, Techmade
+*Oct 2024 – Aug 2025 | Remote*
+- Built responsive React/MUI components from Figma for Skedulr, a UK-focused SaaS platform for home care agencies
+- Led the rebuild of the marketing site from Webflow to Next.js with API integration
+- Enhanced accessibility for care workers and admins across scheduling, staff management, and documentation modules
+
+`React` `Next.js` `MUI` `Redux Toolkit` `REST APIs`
+
+### Frontend Developer Intern, Techmade
+*July 2024 – Sept 2024 | Remote*
+- Studied the codebase and observed senior developers' workflows
+- Contributed small UI tasks using React, MUI, and styled-components
+- Transitioned from shadowing to active contribution
+
+`React` `MUI` `styled-components`
+
+### Deputy, Web-dev Team, ACM NUCES Karachi
+*Current | On-site*
+- Worked on Coder's Cup, FAST NUCES Karachi's flagship competitive programming event
+
+`React` `Web Development`
+
+---
+
+## Selected Projects
+
+### ActionPulse AI — KSE Insight Engine
+Autonomous content-to-action pipeline for Pakistan Stock Exchange (KSE-100) scenarios, built for the GDG AI Hackathon. News, text, images, or PDFs flow through a six-agent LLM pipeline, including an adversarial critic/reflector layer that checks the system's own outputs before they're finalized.
+
+`Next.js` `FastAPI` `Claude` `OpenAI` `Gemini` `SSE` `Redis`
+
+### AI Social Content System
+Scalable multi-client AI-powered social content system using n8n and Airtable, with modular client configuration, structured content pipelines, and dynamic LLM generation.
+
+`n8n` `Airtable` `AI` `Automation`
+
+### Lead Automation System
+Production-level lead automation system handling inbound leads, missed calls, timed follow-ups, and engagement-based stopping logic. Fully event-driven and interrupt-safe.
+
+`Automation` `Event-driven` `AI`
+
+### AI Powered Virtual Model
+Intelligent virtual model system leveraging AI for realistic interactions and experiences.
+
+`React` `AI Integration` `3D Rendering`
+
+### Web Research Agent
+Python-based browser automation agent for automated web research and data collection.
+
+`Python` `Browser Automation` `AI`
+
+---
+
+## Education
+
+**BS Software Engineering**, FAST NUCES Karachi — 2025-2029 (CGPA 3.33)
